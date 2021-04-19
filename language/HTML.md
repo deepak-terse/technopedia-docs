@@ -21,9 +21,9 @@ HTML describes the structure of a web page. Once the html document is created, o
 
 All the websites that we see on the internet are either designed in HTML or designed in some other language that generates an HTML code.
 
-<br/>
+<br />
 
-<br/>
+<br />
 
 ### **History:**
 
