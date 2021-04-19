@@ -8,7 +8,8 @@ The HyperText Markup Language, or HTML is the standard markup language for docum
 
 **Latest version:** HTML 5.2 (released in Dec 2017) 
 
-<br><br>
+<br>
+<br>
 
 ### **Description:**
 
@@ -20,7 +21,9 @@ HTML describes the structure of a web page. Once the html document is created, o
 
 All the websites that we see on the internet are either designed in HTML or designed in some other language that generates an HTML code.
 
-<br><br>
+<br>
+
+<br>
 
 ### **History:**
 
@@ -31,17 +34,18 @@ All the websites that we see on the internet are either designed in HTML or desi
 - Then comes the **HTML 2.0**, published in 1995; which contains all the features of HTML 1.0 along with that few additional features; which remained as the standard markup language for designing and creating websites until January 1997 and refined various core features of HTML.
 - Then comes the **HTML 3.0**, where Dave Raggett who introduced a fresh paper or draft on HTML. It included improved new features of HTML, giving more powerful characteristics for webmasters in designing web pages. But these powerful features of new HTML slowed down the browser in applying further improvements.
 - Then comes the **HTML 4.01** which is widely used and was a successful version of HTML
-- **HTML 5.0**, which is currently released and used worldwide. HTML 5 can be said for as an extended version of HTML 4.01 which was published in the year 2012.
+- **HTML 5.0**, which is currently released and used worldwide. HTML 5 can be said for as an extended version of HTML 4.01 which was published in the year 2012.  
 
-<br><br>
+
+<br>
 
 ### **Pros and Cons:**
 
 ---
 
-Not Applicable
+Not Applicable   
+
 	
-<br><br>
 
 ### **Know more about:**
 
