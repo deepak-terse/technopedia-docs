@@ -8,8 +8,7 @@ The HyperText Markup Language, or HTML is the standard markup language for docum
 
 **Latest version:** HTML 5.2 (released in Dec 2017) 
 
-<br>
-<br>
+<br><br>
 
 ### **Description:**
 
