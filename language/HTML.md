@@ -1,6 +1,8 @@
 The HyperText Markup Language, or HTML is the standard markup language for documents designed to be displayed in a web browser.
 
-<br>
+\\\n 
+
+\\\n
 
 **Created By:** Tim Berners-Lee in 1991
 
