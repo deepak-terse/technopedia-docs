@@ -1,8 +1,4 @@
-The HyperText Markup Language, or HTML is the standard markup language for documents designed to be displayed in a web browser.  
-<br />  
-<br />  
-<br />
-
+The HyperText Markup Language, or HTML is the standard markup language for documents designed to be displayed in a web browser.
 \
 \
 **Created By:** Tim Berners-Lee in 1991
@@ -10,7 +6,6 @@ The HyperText Markup Language, or HTML is the standard markup language for docum
 **Owned By:** None
 
 **Latest version:** HTML 5.2 (released in Dec 2017)
-
 \
 \
 ### **Description:**
