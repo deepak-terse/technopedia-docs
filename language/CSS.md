@@ -1,14 +1,12 @@
 Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language such as HTML.
 
-<br>
-
 **Created By:** World Wide Web Consortium (W3C) in 1996
 
 **Owned By:** None
 
 **Latest version:** CSS 3 (released in Jun 2011) 
 
-<br><br>
+#### LINE-BREAK
 
 ### **Description:**
 
@@ -16,7 +14,7 @@ Cascading Style Sheets is a style sheet language used for describing the present
 
 CSS specifies the page-layout, color, font and the style of every component displayed on the website. It is responsible for the look and feel of the website.
 
-<br><br>
+#### LINE-BREAK
 
 ### **History:**
 
@@ -27,7 +25,7 @@ CSS specifies the page-layout, color, font and the style of every component disp
 - **CSS level 2 revision 1**, fixes errors in CSS 2, removes poorly supported or not fully interoperable features and adds already implemented browser extensions to the specification. After multiple iterations and reviewing, it was finally published as a W3C Recommendation on 7 June 2011.
 - Unlike CSS 2, which is a large single specification defining various features, CSS 3 is divided into several separate documents called "modules". Each module adds new capabilities or extends features defined in CSS 2, preserving backward compatibility. The earliest CSS 3 drafts were published in June 1999.
 
-<br><br>
+#### LINE-BREAK
 
 ### **Pros and Cons:**
 
@@ -35,7 +33,7 @@ CSS specifies the page-layout, color, font and the style of every component disp
 
 Not Applicable
 	
-<br><br>
+#### LINE-BREAK
 
 ### **Know more about:**
 
