@@ -3,7 +3,6 @@ The HyperText Markup Language, or HTML is the standard markup language for docum
 \ 
 \
 \
-
 **Created By:** Tim Berners-Lee in 1991
 
 **Owned By:** None
