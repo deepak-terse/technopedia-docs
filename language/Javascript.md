@@ -1,14 +1,12 @@
 Javascript is a light-weight general-purpose programming language used for wide range of purposes like building web, mobile and desktop apps, building web servers, game development and lot more.
 
-<br>
-
 **Created By:** Brendan Eich in 1995
 
 **Owned By:** Oracle Corporation
 
 **Latest version:** CSS 3 (released in Jun 2011) 
 
-<br><br>
+#### LINE-BREAK
 
 ### **Description:**
 
@@ -16,7 +14,7 @@ Javascript is a light-weight general-purpose programming language used for wide 
 
 Out of many use cases mentioned above, Javascript is mainly used for providing interactivity to a website. It lets you create and control dynamic website content.
 
-<br><br>
+#### LINE-BREAK
 
 ### **History:**
 
@@ -29,7 +27,7 @@ Out of many use cases mentioned above, Javascript is mainly used for providing i
 - Ambitious work on the language continued for several years, culminating in an extensive collection of additions and refinements being formalized with the publication of **ECMAScript 6** in 2015
 
 
-<br><br>
+#### LINE-BREAK
 
 ### **Pros and Cons:**
 
@@ -37,7 +35,7 @@ Out of many use cases mentioned above, Javascript is mainly used for providing i
 
 Not Applicable
 	
-<br><br>
+#### LINE-BREAK
 
 ### **Know more about:**
 
